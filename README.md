@@ -1,5 +1,8 @@
 ```python
-class Dhilipsiva:
+from spacetime import SpaceTime
+
+
+class Dhilipsiva(SpaceTime):
 
     def __init__(self):
         self.name = 'dhilipsiva'
