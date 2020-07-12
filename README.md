@@ -1,16 +1,19 @@
-### Hi there 👋
+Optimistic Nihilist. 
 
-<!--
-**dhilipsiva/dhilipsiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Democratic Socialist. 🌹
 
-Here are some ideas to get you started:
+I believe everybody is equal. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+An instance of spacetime, just like you. 
+
+Lover of Science, Python, FOSS & தமிழ். 
+
+N00b Astrophysicist. 
+
+VP of Engineering [@Reckonsys](https://github.com/reckonsys). 
+
+Care Taker [@Nitimis](https://github.com/nitimis). 
+
+Have been coding for over 15 years now.
+
+I spend most of my time on Terminal, Vim, GitHub, teaching my kids or PlayStation. 
