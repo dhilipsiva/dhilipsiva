@@ -2,13 +2,13 @@
 class Dhilipsiva:
 
     def __init__(self):
-        pass
+        self.name = 'dhilipsiva'
 
     def labels(self):
         return [
-            "Optimistic Nihilist",
-            "Democratic Socialist 🌹",
-            "N00b Astrophysicist"]
+            'Optimistic Nihilist',
+            'Democratic Socialist 🌹',
+            'N00b Astrophysicist']
 
     def beliefs(self):
         return [
