@@ -37,7 +37,10 @@
 </p>
 
 
-<p align="center"> <a href="https://twitter.com/dhilipsiva" target="blank"><img src="https://img.shields.io/twitter/follow/dhilipsiva?logo=twitter&style=for-the-badge" alt="dhilipsiva" /></a> <img src="https://komarev.com/ghpvc/?username=dhilipsiva&label=Profile%20views&color=0e75b6&style=flat" alt="dhilipsiva" />  </p>
+<p align="center"> 
+  <a href="https://twitter.com/dhilipsiva" target="blank"><img src="https://img.shields.io/twitter/follow/dhilipsiva?logo=twitter&style=for-the-badge" alt="dhilipsiva" /></a> 
+  <img src="https://komarev.com/ghpvc/?username=dhilipsiva&label=Profile%20views&color=0e75b6&style=flat" alt="dhilipsiva" />  
+</p>
 
 I usually spend most of my time building python (micro)services. But I also have built production services with JavaScript (Frontend + Node), C, Go, PHP, Ruby, Objective-C, C# & Java. I have worked on all levels of a typical web application stack. I design (architecture), implement, deploy, scale and maintain backend code, frontend code & infrastructure. Here is a non-exhaustive list of things that I built in the past:
 
