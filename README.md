@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm dhilipsiva</h1>
 
-<h3 align="center">VPE @reckonsys. ex-CTO @nitimis. An Optimistic Nihilist who loves World Peace, Science, Python, Rust, FOSS, e-Games, Fitness, Astrophysics & தமிழ்</h3>
+<h3 align="center">VPE @reckonsys. ex-CTO @nitimis. An Optimistic Nihilist who loves Science, Python, Rust, FOSS, e-Games, Fitness, Astrophysics & தமிழ்</h3>
 
 <p align="center">🔭 I’m currently working on <b>Python, Rust & WebAssembly</b></p>
 
