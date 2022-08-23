@@ -62,6 +62,4 @@ I usually spend most of my time building python (micro)services. But I also have
 
 Lately, I have developed a keen interest in Rust programming language, WebAssembly & Distributed software.
 
-I also care a lot about progressive politics. I try to volunteer for progressive candidates around the world in whatever nano capacity I can.
-
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=dhilipsiva" alt="dhilipsiva" /></p>
