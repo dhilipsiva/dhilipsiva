@@ -42,7 +42,7 @@
   <img src="https://komarev.com/ghpvc/?username=dhilipsiva&label=Profile%20views&color=0e75b6&style=flat" alt="dhilipsiva" />  
 </p>
 
-I usually spend most of my time building python (micro)services. But I also have built production services with JavaScript (Frontend + Node), C, Go, PHP, Ruby, Objective-C, C# & Java. I have worked on all levels of a typical web application stack. I design (architecture), implement, deploy, scale and maintain backend code, frontend code & infrastructure. Here is a non-exhaustive list of things that I built in the past:
+I usually spend most of my time building python (micro)services. But I also have built production services with JavaScript (Frontend + Node), C, Go, PHP, Ruby, Objective-C, C# & Java. I have worked on all levels of a typical web application stack. I architect, code, deploy, (auto)scale, and maintain server-side (.py, .rs), browser-side (.js, .ts, .wasm) code & infra (terraform, pulumi, CDK) code. Here is a non-exhaustive list of things that I built in the past:
 
 * GraphQL, RPC & RESTful microservices with Python
 * JavaScript frontends with Ember & React
