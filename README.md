@@ -54,6 +54,7 @@ I usually spend most of my time building python (micro)services. But I also have
 * Scaled a couple of high-traffic web applications
 * Deploy services on AWS, Azure and Google Cloud (Fabric, docker, AWS copilot, Kubernetes, etc.)
 * Small tech teams (5-15 engineers)
+* Setting up E2E engineering processes for the entire organization 
 * Can design and develop resource-efficient, reliable, maintainable, secure & scalable products
 * A bunch of open-source tools that are useful for web development.
 * Contributed to a bunch of 3rd party open-source projects
