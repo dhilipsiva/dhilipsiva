@@ -6,7 +6,6 @@
 
 <p align="center">
 <a href="https://dev.to/dhilipsiva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dhilipsiva" height="30" width="40" /></a>
-<a href="https://twitter.com/dhilipsiva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhilipsiva" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhilipsiva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhilipsiva" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1235072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1235072" height="30" width="40" /></a>
 <a href="https://medium.com/@dhilipsiva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dhilipsiva" height="30" width="40" /></a>
@@ -42,25 +41,16 @@
   <img src="https://komarev.com/ghpvc/?username=dhilipsiva&label=Profile%20views&color=0e75b6&style=flat" alt="dhilipsiva" />  
 </p>
 
-I usually spend most of my time building python (micro)services. But I also have built production services with JavaScript (Frontend + Node), C, Go, PHP, Ruby, Objective-C, C# & Java. I have worked on all levels of a typical web application stack. I architect, code, deploy, (auto)scale, and maintain server-side (.py, .rs), browser-side (.js, .ts, .wasm) code & infra (terraform, pulumi, CDK) code. Here is a non-exhaustive list of things that I built in the past:
+I am a passionate and experienced Software Architect/Engineer with a diverse skill set and a wealth of experience in various programming languages and technologies. Currently, I work as a Software Architect at Appknox. I actively contribute to numerous repositories on GitHub. You can contact me through my email dhilipsiva@pm.me. You can find my past experiences on LinkedIn and search for me on Google.
 
-* GraphQL, RPC & RESTful microservices with Python
-* JavaScript frontends with Ember & React
-* DevOps pipelines
-* E2E Test Automation Framework (Horizontal & Vertical) with RobotFramework
-* Native iOS apps
-* Android and iOS device farms
-* RaspberryPi bitcoin mining farm with custom ASIC chips
-* Scaled a couple of high-traffic web applications
-* Deploy services on AWS, Azure and Google Cloud (Fabric, docker, AWS copilot, Kubernetes, etc.)
-* Small tech teams (5-15 engineers)
-* Setting up E2E engineering processes for the entire organization 
-* Can design and develop resource-efficient, reliable, maintainable, secure & scalable products
-* A bunch of open-source tools that are useful for web development.
-* Contributed to a bunch of 3rd party open-source projects
-* Reverse Engineered and "hacked" a bunch of mobile applications for fun
-* Hobby IoT & robotic projects (very basic stuff)
+I am very skilled in building (micro)services, focusing on Python/Rust, and a range of other languages including JavaScript (browser-side), C, Go, PHP, Ruby, Objective-C, C#, and Java. Lately, I have developed a keen interest in Rust programming language, WebAssembly, and distributed software.
 
-Lately, I have developed a keen interest in Rust programming language, WebAssembly & Distributed software.
+I can architect, code, deploy, (auto)scale, and maintain server-side (.py, .rs), browser-side (.js, .ts, .wasm) & infra (terraform, pulumi, CDK) code. I have built GraphQL, RPC & RESTful microservices with Python & Rust, JavaScript frontends with Ember & React, DevOps pipelines, E2E Test Automation Framework (Horizontal & Vertical) with RobotFramework, Native iOS apps, Android and iOS device farms, RaspberryPi bitcoin mining farm with custom ASIC chips, and scaled a couple of high-traffic web applications.
+
+With my broad experience, I can tackle projects at all levels of the web application stack: from server-side to browser-side, and architecture to scaling. I have also successfully scaled high-traffic web applications and deployed services on AWS, Azure, and Google Cloud, using tools such as Fabric, Docker, AWS Copilot, Kubernetes, and more.
+
+In addition to my technical skills, I have also been a leader on small tech teams, guiding my colleagues to success and fostering a positive work environment. I have also contributed to several open-source projects and reverse-engineered and "hacked" mobile applications for fun.
+
+Outside of my professional life, I am constantly exploring new technologies and keeping up with the latest trends in the software engineering world. I love discussing philosophy & socio-economic and political change. In my free time, I enjoy tinkering with IoT and robotic projects with my kids, both for fun and as a way to continue learning and growing my skillset.
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=dhilipsiva" alt="dhilipsiva" /></p>
