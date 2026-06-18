@@ -1,6 +1,6 @@
 # dhilipsiva
 
-An Optimistic Nihilist, Hands-on architect and lifelong builder who loves Science, Rust, Python, FOSS, WebAssembly, WebRTC, Web3, Distributed Systems, and symbolic reasoning. over 15+ years taking systems from whiteboard to production. Dropout, self-taught, open-source by default.
+An optimistic nihilist, hands-on architect and lifelong builder who loves Science, Rust, Python, FOSS, WebAssembly, WebRTC, Web3, Distributed Systems, and symbolic reasoning. Over 15+ years taking systems from whiteboard to production. Dropout, self-taught, open-source by default.
 
 ### // now
 
