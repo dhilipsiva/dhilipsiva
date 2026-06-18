@@ -1,6 +1,6 @@
 # dhilipsiva
 
-Hands-on architect and lifelong builder who loves Science, Rust, Python, FOSS, WebAssembly, WebRTC, web3, distributed systems, and symbolic reasoning.
+An optimistic nihilist, hands-on architect and lifelong builder who loves Science, Rust, Python, FOSS, WebAssembly, WebRTC, web3, distributed systems, and symbolic reasoning.
 
 ### // now
 
